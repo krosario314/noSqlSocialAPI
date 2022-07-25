@@ -1,7 +1,7 @@
 {
   "name": "nosqlsocialapi",
   "version": "1.0.0",
-  "description": "",
+  "description": "picture # ## Description Using MongoDB database, a set of API for social netowkring is built to help the application handle large amounts of unstructured data. When the application is invoked the server is then synced with mongoose models into the mongodb database. # ## User Story ``` AS A social media startup I WANT an API for my social network that uses a NoSQL database SO THAT my website can handle large amounts of unstructured data ``` # ## Technology * Javascript * Express.js * MongoDB Database * Mongoose ODM # ## Resources [Github repo]() [My Github]() [Video submission]()",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,6 +19,8 @@
   "dependencies": {
     "express": "^4.18.1",
     "install": "^0.13.0",
+    "moment": "^2.29.4",
     "mongoose": "^6.4.6"
-  }
+  },
+  "keywords": []
 }

@@ -116,7 +116,7 @@ const thoughtController = {
     )
       .then(dbThoughtData => {
         if (!dbThoughtData) {
-          res.status(404).json({ message: 'No!'});
+          res.status(404).json({ message: 'Nope!'});
           return;
         }
        res.json(dbThoughtData);

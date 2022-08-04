@@ -1,6 +1,4 @@
 # Social Network API
-picture
-#
 ## Description
 Using MongoDB database, a set of API for social netowkring is built to help the application handle large amounts of unstructured data. When the application is invoked the server is then synced with mongoose models into the mongodb database.
 #
@@ -18,6 +16,6 @@ SO THAT my website can handle large amounts of unstructured data
 * Mongoose ODM
 #
 ## Resources
-* [Github repo]()
-* [My Github]()
+* [Github repo](https://github.com/krosario314/noSqlSocialAPI)
+* [My Github](https://github.com/krosario314)
 * [Video submission]()
